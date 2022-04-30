@@ -1,6 +1,6 @@
 # MLOps thoughts - 5W1H
 
-> **Thoughts on Machine Learning Ops - Why, What, When, Who, Where, How**
+> **Thoughts on Machine Learning Ops - Why, What, Where, Who, When, How**
 
 [![Contributors](https://img.shields.io/github/contributors/paulobarchi/MLOps_5W1H?style=flat-square)](https://github.com/paulobarchi/MLOps_5W1H/graphs/contributors)
 
@@ -9,10 +9,10 @@
     * [Why this doc?](#why-doc)
     * [Why MLOps?](#why-mlops)
 2. [What?](#what)
-3. [Who?](#who)
-4. [When?](#when)
-5. [How?](#how)
-6. [Where?](#where)
+3. [Where?](#where)
+4. [Who?](#who)
+5. [When?](#when)
+6. [How?](#how)
 7. [References](#references)
 
 ## 1. Why? <a name="why"></a>
