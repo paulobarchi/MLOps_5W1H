@@ -81,7 +81,7 @@ Data Engineers partner up with MLEs pretty well, as the first are more concerned
 
 #### Data Scientists (DSs)
 
-One of the most used quotes in Machine Learning Engineering is that:
+One of the quotes that I heard the most in Machine Learning Engineering environments is that:
 > the MLE's job should be to make Data Scientists life easier.
 
 ... so that DSs would have an easier time experimenting, deploying and presenting business/product results. 
