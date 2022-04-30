@@ -56,9 +56,7 @@ Complementing the quote above, with my explicit bias, I would state that the eff
 
 ## 3. Where? <a name="where"></a>
 
-> One swallow does not make a summer.
-
-Machine Learning Engineering (MLE) practices must start somewhere. The MLE role is fresher than other data roles, so MLEs have been gradually joining Data/ML intensive teams. But lonely MLEs are not enough to build the whole culture and process we've been talking about through this doc. 
+Machine Learning Engineering (MLE) practices must start somewhere. The MLE role is fresher than other data roles, so MLEs have been gradually joining Data/ML intensive teams. 
 
 > Most ML/Data intensive companies have been focusing on building up ML & Data platforms teams. 
 
