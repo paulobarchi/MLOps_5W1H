@@ -119,7 +119,7 @@ Examples of:
 
 With that done, we could have an orchestrator to ensure every step is processing accordingly, by providing the necessary config files and checking the expected artifacts. This improves tracking of experiments (reproducibility), (2) make it easier to set up experiments and deliver results, (3) decrease technical/documentation debt by increasing reusability through well-defined processes.
 
-> Slow and steady wins the race.
+> "Slow and steady wins the race": to invest time and effort on MLOps pays off in the long-term. 
 
 #### New non-platform projects
 
