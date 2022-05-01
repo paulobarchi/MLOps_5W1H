@@ -156,7 +156,7 @@ It varies a real deal depending on the context, team, project. One of the most c
 * "S.O.L.I.D. Principles for Machine Learning Engineers" 
     * [YouTube playlist](https://www.youtube.com/watch?v=ul8LLiFY0Dw&list=PL-wATfeyAMNpZ6-ESiXK9BnZmGLjqECt9)
     * [GitHub repository](https://github.com/musikalkemist/solidforml/tree/main/solidforml)
-* [Design Patterns](https://refactoring.guru/design-patterns)
+* [Design Patterns (Refactoring Guru)](https://refactoring.guru/design-patterns)
 * Most-starred GitHub repositories entitled "Awesome MLOps" (with multiple links each):
     * https://github.com/visenger/awesome-mlops
     * https://github.com/kelvins/awesome-mlops
