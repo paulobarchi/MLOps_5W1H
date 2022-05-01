@@ -1,4 +1,4 @@
-# MLOps thoughts - 5W1H
+# MLOps Thoughts - 5W1H
 
 > **Thoughts on Machine Learning Ops - Why, What, Where, Who, When, How**
 
@@ -137,14 +137,20 @@ With that done, we could have an orchestrator to ensure every step is processing
 
 "Slow and steady wins the race": to invest time and effort on MLOps pays off in the long-term. However, projects need short-term evidence of evolution to keep thriving. So we are usually persuing the middle path where we set up the systems with the best practices possible at that moment --- avoiding over-engineering, but making it as good as possible to maintain and evolve in the future. Cross-company MLOps culture, and a good and healthy relationship between product and engineering supports this pursue for the right balance.
 
-#### New non-platform projects
+#### Platform teams/projects
+
+ML/Data platform team(s) are generally among the main MLOps evangelists, they help spreading the word, but also provide the tooling so that the Data/ML process is faster, well defined and structured. An example could be: a highly configurable and orchestrated system for the whole ML process, restrained to a well defined and highly demanded scope inside the company. They can also (join forces with Engineer Managers and Tech Leads to) identify common demands accross the company, and work on the standarization of such processes.    
+
+#### New non-platform teams/projects
 
 As discussed mostly in section [When?](#when), it is good to start a ML-related project discussing processes from the MLOps perspective. Most of the time the tech stack is defined before-hand, so we would think about the steps, the pipeline, and the orchestrator in a compatible and well-structured way --- and possibly build up the optimal alternative for such project. 
 
-#### Existing non-platform projects
+#### Existing non-platform teams/projects
 
 Here, it regurlaly takes significant effort to understand the whole ML ecosystem and then start refactoring and working to level MLOps up. 
-It varies a real deal depending on the context, team, project. One of the most critical bottlenecks is usually related to (re)training and (re)deploying, to keep always the most updated model in production in the smoothest way possible. So, if these tasks are not automated, this would be a good starting point in a practical sense. From here on, the priority should accord to the teams' interests and goals. If suitable, it should be good to establish a well defined process for A/B testing in the smoothest way possible. Some other interesting examples to work on could be to have offline evaluation incorporated in the CI/CD pipeline --- every time we develop a new feature, we automatically generate the offline evaluation after the training step (and hyperparameter optimization, analogously). In a fictional project, where we have all other critical automations and best practices in place, we could a have a retraining setup ready to be triggered once we detect a kind of drift while checking the artifacts. 
+It varies a real deal depending on the context, team, project. One of the most critical bottlenecks is usually related to (re)training and (re)deploying, to keep always the most updated model in production in the smoothest way possible. So, if these tasks are not automated, this would be a good starting point in a practical sense. From here on, the priority should accord to the teams' interests and goals. If suitable, it should be good to establish a well defined process for A/B testing in the smoothest way possible. Some other interesting examples to work on could be to have offline evaluation incorporated in the CI/CD pipeline --- every time we develop a new feature, we automatically generate the offline evaluation after the training step (and hyperparameter optimization, analogously). In a fictional project, where we have all other critical automations and best practices in place, we could a have a retraining setup ready to be triggered once we detect a kind of drift while checking the artifacts.
+
+> Congratulations and thank you for reading through the whole document. 
 
 ## 7. References <a name="references"></a>
 * ["Hidden Technical Debt in Machine Learning systems" paper](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
