@@ -37,7 +37,7 @@ I try not to spend much on "Data is new oil" here --- in short: there is a huge 
 
 #### Technical debt and MLOps <a name="tech_debt"></a>
 
-When starting such shift, there are usually just a few Data/ML-focused people for every enterprise. It's always somewhat risky to change from the "traditional way of doing things", so quick positive results from Proof-of-Concepts (through offline evaluation and online A/B testing) are always welcome. And, if such results are indeed positive, the natural will is to go live with this proposed approach as soon as possible. Through the course of this (fictional, but possibly real) process, most steps from experimentation to deployment and monitoring are performed manually (**MLOps level 0**), "hacking" the code so it works as expected this one time. Then, every time there is a maintenance and/or feature development, it can be painful and time consuming --- which is realted to the **technical debt** concept --- instead of joyful and effective. MLOps takes care of the aforementioned issues. 
+When starting such shift, there are usually just a few Data/ML-focused people for every enterprise. It's always somewhat risky to change from the "traditional way of doing things", so quick positive results from Proof-of-Concepts (through offline evaluation and online A/B testing) are always welcome. And, if such results are indeed positive, the natural will is to go live with this proposed approach as soon as possible. Through the course of this (fictional, but possibly real) process, most steps from experimentation to deployment and monitoring are performed manually (**MLOps level 0**), "hacking" the code so it works as expected this one time. Then, every time there is a maintenance and/or feature development, it can be painful and time consuming --- which is related to the **technical debt** concept --- instead of joyful and effective. MLOps takes care of the aforementioned issues. 
 
 ## 2. What? <a name="what"></a>
 
@@ -47,10 +47,10 @@ More than tech stack & tooling, **MLOps is very much about culture and process**
 
 > *... similar to DevOps, MLOps is not (only) about the stack, it is instead about **the culture of how to deliver results better and faster on systems that use Machine Learning. It's about processes, and the tools necessary to support these processes**. MLOps starts much before deployment, starts already on creating processes to identify the right problems to solve, then finding the best processes and stack to allow fast interation when creating, packaging these models, deploying, securing, and then monitoring the models.*
 
-Complementing the quote above, MLOps is usually about understanding, organizing and solving the whole Machine Learning Engineering (MLE) puzzle. In a practical sense,MLE /MLOps efforts are about automating whatever is possible in Machine Learning-based systems and projects, by
+Complementing the quote above, MLOps is usually about understanding, organizing and solving the whole Machine Learning Engineering (MLE) puzzle. In a practical sense, MLE /MLOps efforts are about automating whatever is possible in Machine Learning-based systems and projects, by
 * making systems and modules **easier to understand, more flexible, more maintainable, and highly and easily configurable**,
-* **tracking all artifacts** along the ML pipeline,
-* brainstorming when analysisng requirements and continuously discussing **best practices** to employ the **S.O.L.I.D. Principles** and **Design Patterns**, high-standard documentation and code review processes.
+* properly **tracking artifacts** along the ML pipeline,
+* brainstorming when analysisng requirements and continuously discussing **best practices** to employ the **S.O.L.I.D. Principles** and **Design Patterns**, ensuring high-standard documentation and code review processes.
 
 > The last item above is related to the positive and healthy side of *peer pressure*: to raise the technical bar so that team members are always learning from each other, not only scientifically and business-wise, but from the MLE/MLOps perspective. 
 
