@@ -169,4 +169,4 @@ It varies a real deal depending on the context, team, project. One of the most c
     * https://github.com/visenger/awesome-mlops
     * https://github.com/kelvins/awesome-mlops
     * https://github.com/GokuMohandas/MLOps 
-* "Most common MLOps misunderstandings" discussion raised on LinkedIn by Cassie Kozyrkov ([link](https://www.linkedin.com/posts/kozyrkov_what-do-most-people-misunderstand-about-mlops-activity-6922731393760284672-74tx?utm_source=linkedin_share&utm_medium=member_desktop_web))
+* ["Most common MLOps misunderstandings" discussion raised on LinkedIn by Cassie Kozyrkov](https://www.linkedin.com/posts/kozyrkov_what-do-most-people-misunderstand-about-mlops-activity-6922731393760284672-74tx?utm_source=linkedin_share&utm_medium=member_desktop_web)
