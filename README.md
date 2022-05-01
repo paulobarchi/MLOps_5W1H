@@ -48,9 +48,9 @@ More than tech stack & tooling, **MLOps is very much about culture and process**
 > *... similar to DevOps, MLOps is not (only) about the stack, it is instead about **the culture of how to deliver results better and faster on systems that use Machine Learning. It's about processes, and the tools necessary to support these processes**. MLOps starts much before deployment, starts already on creating processes to identify the right problems to solve, then finding the best processes and stack to allow fast interation when creating, packaging these models, deploying, securing, and then monitoring the models.*
 
 Complementing the quote above, MLOps is usually about understanding, organizing and solving the whole Machine Learning Engineering (MLE) puzzle. In a practical sense,MLE /MLOps efforts are about automating whatever is possible in Machine Learning-based systems and projects, by
-* making systems and modules **highly and easily configurable**,
+* making systems and modules **easier to understand, more flexible, more maintainable, and highly and easily configurable**,
 * **tracking all artifacts** along the ML pipeline,
-* **employing best practices**: brainstorming and continuous discussions to employ the **S.O.L.I.D. Principles** and **Design Patterns**, high-standard documentation and code review processes.
+* brainstorming when analysisng requirements and continuously discussing **best practices** to employ the **S.O.L.I.D. Principles** and **Design Patterns**, high-standard documentation and code review processes.
 
 > The last item above is related to the positive and healthy side of *peer pressure*: to raise the technical bar so that team members are always learning from each other, not only scientifically and business-wise, but from the MLE/MLOps perspective. 
 
@@ -102,7 +102,9 @@ Enabling data-related results to be delivered faster implies in faster delivery 
 
 ## 5. When? <a name="when"></a>
 
-As discussed in the [Technical debt and why MLOps](#tech_debt) subsection, ideally, MLOps processes should be in place right from the start. This is possible when assembling new teams and projects. For existing projects starting to grow MLOps-wise, it is important to understand the big picture of the product and tech architecture, identify the most critical points to take care of the technical debt, and make continous refactoring progress, to gradually evolve with regard to MLOps levels --- more details on this discussion on the next section. 
+As discussed in the [Technical debt and why MLOps](#tech_debt) subsection, ideally, MLOps processes should be in place right from the start, while defining the requirements, before designing the system(s). This is possible when assembling new teams and projects. As seen in the Figure below, changing softwares in production has a much higher cost, in general. For existing projects starting to grow MLOps-wise, it is important to understand the big picture of the product and tech architecture, identify the most critical points to take care of the technical debt, and make continous refactoring progress, to gradually evolve with regard to MLOps levels --- more details on this discussion on the next section.
+
+![alt text](cost_of_change_in_SE.png "Cost of Change in Software Engineering")
 
 ## 6. How? <a name="how"></a>
 
@@ -146,10 +148,12 @@ It varies a real deal depending on the context, team, project. One of the most c
 * ["Hidden Technical Debt in Machine Learning systems" paper](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
 * ["MLOps: Continuous delivery and automation pipelines in machine learning" Google doc](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 * ["Gentle Introduction to MLOps" Medium post](https://medium.com/analytics-vidhya/fundamentals-of-mlops-part-1-a-gentle-introduction-to-mlops-1b184d2c32a8)
-* ["S.O.L.I.D. Principles for Machine Learning Engineers" YouTube playlist](https://www.youtube.com/watch?v=ul8LLiFY0Dw&list=PL-wATfeyAMNpZ6-ESiXK9BnZmGLjqECt9)
 * S.O.L.I.D. Principles 
     * [Wikipedia](https://en.wikipedia.org/wiki/SOLID)
     * ["The S.O.L.I.D. Principles in pictures" Medium post](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898))
+* "S.O.L.I.D. Principles for Machine Learning Engineers" 
+    * [YouTube playlist](https://www.youtube.com/watch?v=ul8LLiFY0Dw&list=PL-wATfeyAMNpZ6-ESiXK9BnZmGLjqECt9)
+    * [GitHub repository](https://github.com/musikalkemist/solidforml/tree/main/solidforml)
 * [Design Patterns](https://refactoring.guru/design-patterns)
 * Most-starred GitHub repositories entitled "Awesome MLOps" (with multiple links each):
     * https://github.com/visenger/awesome-mlops
