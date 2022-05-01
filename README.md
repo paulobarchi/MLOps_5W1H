@@ -27,7 +27,7 @@ Another motivation is just because I love writing and never dared to elaborate a
 
 #### "Standing on the shoulders of giants"
 
-Here, I try my best to avoid to reinvent the wheel by heavily relying on the [references](#references), and structuring my thoughts upon them. Two references to highlight are:
+Here, I try my best to not reinvent the wheel by heavily relying on the [references](#references), and structuring my thoughts upon them. Two references to highlight are:
 * [The paper entitled "Hidden Technical Debt in Machine Learning systems"](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
 * [The Google document entitled "MLOps: Continuous delivery and automation pipelines in machine learning"](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) 
 
