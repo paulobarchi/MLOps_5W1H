@@ -56,7 +56,9 @@ Complementing the quote above, MLOps is usually about understanding, organizing 
 
 Thus making the whole process as smooth as possible, with reproducible experiments and setups, and ML(-related) software awesome --- see [References](#references) for some resources around the above items --- highlight to ["S.O.L.I.D. Principles for Machine Learning Engineers" YouTube playlist](https://www.youtube.com/watch?v=ul8LLiFY0Dw&list=PL-wATfeyAMNpZ6-ESiXK9BnZmGLjqECt9)
 
-> This last paragraph could be a good hook to the [`How?`](#how) section. But first, I would like to first cover [`Where?`](#where) very briefly; and then address the "time degradation effect" on long-term efforts when compared to the short-term. Although this last paragraph sounds quite appealing in the long-term and engineering-wise, these efforts can be hard to prioritize in real-world scenarios with lots of low-hanging fruits, maintenance (mostly due to technical debt), and the current high-rotation of ML/Data people -- which seems to be a perfect link to the [`When?`](#when) and [`Who?`](#who) sections, respectively.
+> This last paragraph could be a good hook to the [`How?`](#how) section. But first, I would like to briefly cover [`Where?`](#where) and [`Who?`](#who); and then address the "time degradation effect" on long-term efforts when compared to the short-term ([`When?`](#when)). Although this last paragraph sounds quite appealing in the long-term and engineering-wise, these efforts can be hard to prioritize in real-world scenarios with lots of low-hanging fruits, maintenance (mostly due to technical debt), and the current high-rotation of ML/Data people. This discussion is further explored on the subsection about [Pursuing the Middle Path](#balance).
+
+, but now, to build up further on `5W1H`, it seems to be a perfect link to [`When?`](#when).
 
 ## 3. Where? <a name="where"></a>
 
