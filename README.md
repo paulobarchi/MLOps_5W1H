@@ -52,7 +52,7 @@ More than tech stack & tooling, MLOps is very much about process and culture, [a
 Complementing the quote above, I would state that the efforts on the MLE/MLOps front are about automating whatever is possible in Machine Learning-based systems and projects, by
 * making systems and modules highly and easily configurable,
 * tracking all artifacts along the ML pipeline,
-* employing best practices: brainstorming and discussions to employ [SOLID principles](https://en.wikipedia.org/wiki/SOLID) and [Design Patterns](https://refactoring.guru/design-patterns), high-standard documentation and code review processes.
+* employing best practices: brainstorming and continuous discussions to employ [SOLID principles](https://en.wikipedia.org/wiki/SOLID) and [Design Patterns](https://refactoring.guru/design-patterns), high-standard documentation and code review processes.
 
 Thus making the whole process smooth, with reproducible experiments/setups, and ML(-related) software awesome.
 
