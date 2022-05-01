@@ -21,7 +21,7 @@
 
 #### Personal motivation
 
-I've been receiving a lot of `5W1H` questions about Machine Learning Ops (**MLOps**). This triggered me to revisit important references on the subject, and go through discussions about it (with friends, and on LinkedIn/Reddit). So, in this space, I try to organize my thoughts around the subject focusing on `5W1H`.
+I've been receiving a lot of `5W1H` (Why, What, Where, Who, When, How) questions about Machine Learning Ops (**MLOps**). This triggered me to revisit important references on the subject, and go through discussions about it (with friends, and on LinkedIn/Reddit). So, in this space, I try to organize my thoughts around the subject focusing on `5W1H`.
 
 Another motivation is just because I love writing and never dared to elaborate a document in this format: structured thoughts around the foundations of a subject combined with real-life experience and nuances.
 
