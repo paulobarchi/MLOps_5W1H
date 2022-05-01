@@ -104,7 +104,7 @@ Enabling data-related results to be delivered faster implies in faster delivery 
 
 As discussed in the [Technical debt and why MLOps](#tech_debt) subsection, ideally, MLOps processes should be in place right from the start, while defining the requirements, before designing the system(s). This is possible when assembling new teams and projects. As seen in the Figure below, changing softwares in production has a much higher cost, in general. For existing projects starting to grow MLOps-wise, it is important to understand the big picture of the product and tech architecture, identify the most critical points to take care of the technical debt, and make continous refactoring progress, to gradually evolve with regard to MLOps levels --- more details on this discussion on the next section.
 
-![alt text](cost_of_change_in_SE.png "Cost of Change in Software Engineering")
+![alt text](figures/cost_of_change_in_SE.png "Cost of Change in Software Engineering")
 
 ## 6. How? <a name="how"></a>
 
