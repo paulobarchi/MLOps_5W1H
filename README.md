@@ -54,7 +54,7 @@ Complementing the quote above, MLOps is usually about understanding, organizing 
 
 > The last item above is related to the positive and healthy side of *peer pressure*: to raise the technical bar so that team members are always learning from each other, not only scientifically and business-wise, but from the MLE/MLOps perspective. 
 
-Thus making the whole process as smooth as possible, with reproducible experiments and setups, and ML(-related) software awesome --- see [References](#references) for some resources around the above items --- highlight to ["SOLID Principles for Machine Learning Engineers" YouTube playlist](https://www.youtube.com/watch?v=ul8LLiFY0Dw&list=PL-wATfeyAMNpZ6-ESiXK9BnZmGLjqECt9)
+Thus making the whole process as smooth as possible, with reproducible experiments and setups, and ML(-related) software awesome --- see [References](#references) for some resources around the above items --- highlight to ["S.O.L.I.D. Principles for Machine Learning Engineers" YouTube playlist](https://www.youtube.com/watch?v=ul8LLiFY0Dw&list=PL-wATfeyAMNpZ6-ESiXK9BnZmGLjqECt9)
 
 > This last paragraph could be a good hook to the [`How?`](#how) section. But first, I would like to first cover [`Where?`](#where) very briefly; and then address the "time degradation effect" on long-term efforts when compared to the short-term. Although this last paragraph sounds quite appealing in the long-term and engineering-wise, these efforts can be hard to prioritize in real-world scenarios with lots of low-hanging fruits, maintenance (mostly due to technical debt), and the current high-rotation of ML/Data people -- which seems to be a perfect link to the [`When?`](#when) and [`Who?`](#who) sections, respectively.
 
@@ -146,7 +146,7 @@ It varies a real deal depending on the context, team, project. One of the most c
 * ["Hidden Technical Debt in Machine Learning systems" paper](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
 * ["MLOps: Continuous delivery and automation pipelines in machine learning" Google doc](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 * ["Gentle Introduction to MLOps" Medium post](https://medium.com/analytics-vidhya/fundamentals-of-mlops-part-1-a-gentle-introduction-to-mlops-1b184d2c32a8)
-* ["SOLID Principles for Machine Learning Engineers" YouTube playlist](https://www.youtube.com/watch?v=ul8LLiFY0Dw&list=PL-wATfeyAMNpZ6-ESiXK9BnZmGLjqECt9)
+* ["S.O.L.I.D. Principles for Machine Learning Engineers" YouTube playlist](https://www.youtube.com/watch?v=ul8LLiFY0Dw&list=PL-wATfeyAMNpZ6-ESiXK9BnZmGLjqECt9)
 * S.O.L.I.D. Principles 
     * [Wikipedia](https://en.wikipedia.org/wiki/SOLID)
     * ["The S.O.L.I.D. Principles in pictures" Medium post](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898))
