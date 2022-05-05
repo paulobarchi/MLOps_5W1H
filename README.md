@@ -158,6 +158,7 @@ It varies a real deal depending on the context, team, project. One of the most c
 * ["Hidden Technical Debt in Machine Learning systems" paper](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
 * ["MLOps: Continuous delivery and automation pipelines in machine learning" Google doc](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 * ["Gentle Introduction to MLOps" Medium post](https://medium.com/analytics-vidhya/fundamentals-of-mlops-part-1-a-gentle-introduction-to-mlops-1b184d2c32a8)
+* ["MLOps in 10 minutes" (DataTalks)](https://datatalks.club/blog/mlops-10-minutes.html)
 * S.O.L.I.D. Principles 
     * [Wikipedia](https://en.wikipedia.org/wiki/SOLID)
     * ["The S.O.L.I.D. Principles in pictures" Medium post](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898))
