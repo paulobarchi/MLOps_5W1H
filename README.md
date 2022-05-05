@@ -118,7 +118,7 @@ Since this a very open question, I would like to attain to real-world scenarios 
 
 ["MLOps: Continuous delivery and automation pipelines in machine learning" Google doc](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) presents MLOps levels. ML-related systems should focus to gradually progress from one level to another.
 * MLOps level 0: Manual process
-* MLOps level 1: ML pipeline automation (most of the times related to an Airflow-like tool)
+* MLOps level 1: ML pipeline automation
 * MLOps level 2: CI/CD pipeline
 
 In real-life, it gets fuzzy which steps are automated or not, and most systems are not exactly on a certain level, but we will stick with the `int` values for levels, for simplicity's sake.
